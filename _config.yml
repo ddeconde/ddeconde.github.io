@@ -6,8 +6,8 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Ddeconde
-tagline:          'A site template based on the Lanyon Jekyll theme'
+title:            ddeconde.github.io
+tagline:          'A modest pied-&#224-terre on the web.'
 description:      'A very basic and minimal personal site.'
 url:              http://ddeconde.guthub.io
 
