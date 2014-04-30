@@ -7,18 +7,18 @@ permalink:        pretty
 
 # Setup
 title:            ddeconde.github.io
-tagline:          'A modest pied-&#224-terre on the web.'
-description:      'A very basic and minimal personal site.'
-url:              http://ddeconde.guthub.io
+tagline:          A modest pied-&#224-terre on the web.
+description:      A very basic personal site.
+url:              http://getpoole.com
 
 author:
-  name:           'ddeconde'
-  url:            https://twitter.com/
+  name:           David DeConde
+  url:            http://ddeconde.github.io
 
-paginate:         5
+paginate:         1
 
 # Custom vars
 version:          0.1.0
 
 github:
-  repo:           https://github.com/ddeconde/ddeconde.github.io
+  repo:           https://github.com/ddeconde
