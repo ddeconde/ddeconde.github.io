@@ -3,11 +3,7 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
 
-My name is David DeConde and I am a mathematician turned [data scientist](http://en.wikipedia.org/wiki/Data_science). I 
 
 ## Colophon ##
 
