@@ -17,7 +17,7 @@
           {% comment %}
             The code below dynamically generates a list of page links
             to pages with `layout: page` in the front-matter.
-          {% endcomment %
+          {% endcomment %}
 
           {% assign pages_list = site.pages %}
           {% for pg in pages_list %}
@@ -26,7 +26,7 @@
                 <small><a href="{{ pg.url }}">{{ pg.title }}</a></small>
               {% endif %}
             {% endif %}
-          { % endfor %}
+          {% endfor %}
         </h4>
       </div>
 
