@@ -19,11 +19,6 @@
       {% for node in pages_list %}
         {% if node.title != null %}
           {% if node.layout == "page" %}
-          {% comment %}
-            <li class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}">
-              <a href="{{ node.url }}">{{ node.title }}</a>
-            </li>
-          {% endcomment %}
             <a href="{{ node.url }}">{{ node.title }}</a>
           {% endif %}
         {% endif %}
