@@ -317,6 +317,22 @@ tbody tr:nth-child(odd) th {
   letter-spacing: 0;
 }
 
+/*
+ * Added
+ * 
+ */
+
+.masthead-nav {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  font-size: 80%;
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-top-color: #505050;
+  border-bottom-color: #505050;
+  list-style: none;
+}
+
 
 /*
  * Posts and pages
