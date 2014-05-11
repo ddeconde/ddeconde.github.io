@@ -11,7 +11,7 @@
           <a href="/" title="Home">{{ site.title }}</a>
           <small>{{ site.tagline }}</small>
         </h3>
-        <h4>
+        <nav class="masthead-nav">
           {% comment %}
             The code below dynamically generates a list of page links
             to pages with `layout: page` in the front-matter.
@@ -25,7 +25,7 @@
               {% endif %}
             {% endif %}
           {% endfor %}
-        </h4>
+        </nav>
       </div>
 
       {{ content }}
