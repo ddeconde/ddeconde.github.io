@@ -328,8 +328,12 @@ tbody tr:nth-child(odd) th {
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
   border-top: 1px solid #505050;
-  border-bottom 1px solid #505050;
+  border-bottom: 1px solid #505050;
   list-style: none;
+}
+
+.masthead-nav a {
+  color: #505050;
 }
 
 
