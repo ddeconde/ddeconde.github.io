@@ -21,7 +21,7 @@
           {% for pg in pages_list %}
             {% if pg.title != null %}
               {% if pg.layout == "page" %}
-              <small><a class="masthead-nav-item{% if page.url == pg.url %} active{% endif %}" href="{{ pg.url }}">{{ pg.title }}</a></small>
+                <small><a class="masthead-nav-item{% if page.url == pg.url %} active{% endif %}" href="{{ pg.url }}">{{ pg.title }}</a></small>
               {% endif %}
             {% endif %}
           {% endfor %}
