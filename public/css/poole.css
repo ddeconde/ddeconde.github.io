@@ -335,6 +335,19 @@ tbody tr:nth-child(odd) th {
   color: #505050;
 }
 
+.masthead-nav-item {
+  display: inline;
+  margin: 0.25rem;
+  padding: 0.25rem
+}
+
+.masthead-nav-item.active,
+a.masthead-nav-item:hover,
+a.masthead-nav-item:focus {
+  text-decoration: underline;
+  color: #c0c0c0;
+}
+
 
 /*
  * Posts and pages
