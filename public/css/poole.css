@@ -341,10 +341,12 @@ tbody tr:nth-child(odd) th {
   padding: 0.25rem
 }
 
-.masthead-nav-item.active,
 a.masthead-nav-item:hover,
 a.masthead-nav-item:focus {
-/*  text-decoration: underline; */
+  text-decoration: underline; 
+}
+
+.masthead-nav-item.active {
   color: #c0c0c0;
 }
 
