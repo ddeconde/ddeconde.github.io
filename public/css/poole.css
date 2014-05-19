@@ -337,8 +337,9 @@ tbody tr:nth-child(odd) th {
 
 .masthead-nav-item {
   display: inline;
-  margin: 0.25rem;
-  padding: 0.25rem
+  margin: 0.4rem;
+  padding: 0.4rem;
+  font-size: 90%;
 }
 
 a.masthead-nav-item:hover,
@@ -348,6 +349,10 @@ a.masthead-nav-item:focus {
 
 .masthead-nav-item.active {
   color: #c0c0c0;
+}
+
+.footer {
+  font-size: 75%;
 }
 
 
