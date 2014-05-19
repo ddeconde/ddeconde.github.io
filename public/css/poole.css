@@ -355,6 +355,10 @@ a.masthead-nav-item:focus {
   font-size: 75%;
 }
 
+.footer a {
+  color: #505050;
+}
+
 
 /*
  * Posts and pages
