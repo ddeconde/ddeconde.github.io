@@ -86,6 +86,7 @@ html {
 /* Sidebar nav */
 .sidebar-nav {
   padding-left: 0;
+  border-top: 1px solid #fff;
   list-style: none;
 }
 .sidebar-nav-item {
