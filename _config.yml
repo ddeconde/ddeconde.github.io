@@ -6,19 +6,19 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            ddeconde.github.io
-tagline:          A modest pied-&#224-terre on the web.
-description:      A very basic personal site.
-url:              http://ddeconde.github.io
+title:            Poole
+tagline:          The Jekyll Butler
+description:      Base theme for Jekyll themes by @mdo.
+url:              http://getpoole.com
 
 author:
-  name:           David DeConde
-  url:            http://ddeconde.github.io
+  name:           Mark Otto
+  url:            https://twitter.com/mdo
 
-paginate:         5
+paginate:         1
 
 # Custom vars
-version:          0.1.0
+version:          1.0.0
 
 github:
-  repo:           https://github.com/ddeconde
+  repo:           https://github.com/poole/poole
