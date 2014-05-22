@@ -105,19 +105,8 @@ a.sidebar-nav-item:focus {
 /* Footer -- Added */
 .footer {
   text-align: left;
-  padding: 2rem 1rem;
   border-top: 1px solid #505050;
-  font-size: 75%:
-}
-@media (min-width: 48rem) {
-  .footer {
-    position: fixed;
-    top: 0;
-    left: 0;
-    bottom: 0;
-    width: 18rem;
-    text-align: left;
-  }
+  font-size: 60%:
 }
 
 .footer a {
