@@ -1,0 +1,104 @@
+/*
+ *  __                  __
+ * /\ \                /\ \
+ * \ \ \___   __  __   \_\ \     __
+ *  \ \  _ `\/\ \/\ \  /'_` \  /'__`\
+ *   \ \ \ \ \ \ \_\ \/\ \_\ \/\  __/
+ *    \ \_\ \_\/`____ \ \___,_\ \____\
+ *     \/_/\/_/`/___/> \/__,_ /\/____/
+ *                /\___/
+ *                \/__/
+ *
+ * Designed, built, and released under MIT license by @mdo. Learn more at
+ * https://github.com/poole/hyde.
+ */
+
+
+/*
+ * Contents
+ *
+ * Global resets
+ * Masthead-nav
+ * Footer
+ */
+
+
+/*
+ * Global resets
+ *
+ * Update the foundational and global aspects of the page.
+ */
+
+html {
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+}
+@media (min-width: 48rem) {
+  html {
+    font-size: 16px;
+  }
+}
+@media (min-width: 58rem) {
+  html {
+    font-size: 20px;
+  }
+}
+
+/* Masthead-nav */
+
+.masthead-about h1 {
+  color: #505050;
+  margin-top: 0;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 2.5rem;
+}
+
+.masthead-nav {
+  text-align: left;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  border-top: 1px solid #505050;
+  list-style: none;
+}
+
+.masthead-nav a {
+  color: #505050;
+}
+
+.masthead-nav-item {
+  display: inline;
+  margin: 0.4rem;
+  padding: 0.4rem;
+  font-size: 90%;
+}
+
+a.masthead-nav-item:hover,
+a.masthead-nav-item:focus {
+  text-decoration: underline; 
+}
+
+.masthead-nav-item.active {
+  color: #c0c0c0;
+}
+
+.footer {
+  font-size: 75%;
+}
+
+.footer a {
+  color: #505050;
+}
+
+/* Footer -- Added */
+.footer {
+  text-align: left;
+  border-top: 1px solid #505050;
+  font-size: 40%:
+}
+
+.footer a {
+  color: #505050;
+}
+
+
