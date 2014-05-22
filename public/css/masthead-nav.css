@@ -94,11 +94,14 @@ a.masthead-nav-item:focus {
 .footer {
   text-align: left;
   border-top: 1px solid #505050;
-  font-size: 40%:
+  font-size: 50%:
 }
 
 .footer a {
   color: #505050;
 }
 
+.footer small {
+  font-size: 75%;
+}
 
