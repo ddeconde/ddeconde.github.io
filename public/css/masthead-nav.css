@@ -49,7 +49,7 @@ html {
   color: #505050;
   margin-top: 0;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 2rem;
+  font-size: 1.75rem;
 }
 
 .masthead-nav {
@@ -80,14 +80,6 @@ a.masthead-nav-item:focus {
 
 .masthead-nav-item.active {
   color: #c0c0c0;
-}
-
-.footer {
-  font-size: 75%;
-}
-
-.footer a {
-  color: #505050;
 }
 
 /* Footer -- Added */
