@@ -85,7 +85,8 @@ a.masthead-nav-item:focus {
 }
 
 .masthead-nav-item.active {
-  color: #c0c0c0;
+/*  color: #c0c0c0; */
+  font-weight: bold;
 }
 
 /* Footer -- Added */
