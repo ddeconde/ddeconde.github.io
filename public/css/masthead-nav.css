@@ -77,7 +77,7 @@ html {
   display: inline;
   text-transform: lowercase;
   margin: 0; /* top&bottom right&left */
-  padding: 0 0.4rem; /* top right bottom left */
+  padding: 0 0.75rem 0 0; /* top right bottom left */
   font-size: 90%;
 }
 
