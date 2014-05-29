@@ -86,8 +86,8 @@ a.masthead-nav-item:focus {
 .footer {
   text-align: left;
   border-top: 1px solid #505050;
-  font-size: 40%:
-  line-height: 40%;
+  font-size: 1rem;
+  line-height: 1.5;
 }
 
 .footer a {
@@ -95,5 +95,6 @@ a.masthead-nav-item:focus {
 }
 
 .footer small {
+    font-size: 65%;
 }
 
