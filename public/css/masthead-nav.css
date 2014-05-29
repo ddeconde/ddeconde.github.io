@@ -69,7 +69,7 @@ html {
 .masthead-nav-item {
   display: inline;
   margin: 0.4rem 0rem 0.4rem 0rem; /* top right bottom left */
-  padding: 0.4rem 0rem 0.4rem 0rem; /* top right bottom left */
+  padding: 0.4rem 0.5rem 0.4rem 0rem; /* top right bottom left */
   font-size: 90%;
 }
 
