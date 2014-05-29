@@ -92,6 +92,8 @@ a.masthead-nav-item:focus {
 .footer {
   text-align: left;
   border-top: 1px solid #505050;
+  margin-top: 0.2rem;
+  padding: 0.2rem 0;
   font-size: 75%;
   line-height: 120%;
 }
