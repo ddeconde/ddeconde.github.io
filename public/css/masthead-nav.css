@@ -67,8 +67,12 @@ html {
 }
 
 .masthead-nav a {
-  float: left;
   color: #505050;
+}
+
+.masthead-nav ul, li {
+  margin: 0;
+  padding: 0;
 }
 
 .masthead-nav-item {
