@@ -62,7 +62,12 @@ html {
   list-style: none;
 }
 
+.masthead ul {
+  float: left;
+}
+
 .masthead-nav a {
+  float: left;
   color: #505050;
 }
 
