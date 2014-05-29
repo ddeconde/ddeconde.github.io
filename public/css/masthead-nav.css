@@ -53,6 +53,7 @@ html {
 }
 
 .masthead-nav {
+  float: left;
   text-align: left;
   margin-top: 0.5rem;
   margin-bottom: 0.5rem;
@@ -67,7 +68,6 @@ html {
 }
 
 .masthead-nav-item {
-  float: left;
   display: inline;
   text-transform: lowercase;
   margin: 0.4rem 0rem 0.4rem 0rem; /* top right bottom left */
