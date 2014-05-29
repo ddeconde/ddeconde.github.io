@@ -50,21 +50,20 @@ html {
   margin-top: 0;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 1.75rem;
+  padding-bottom: 0.2rem;
+  margin-bottom: 0.2rem;
   border-bottom: 1px solid #505050;
 }
 
 .masthead-nav {
+  float: left;
   text-align: left;
-  margin-top: 0.5rem;
+  margin-top: 0rem;
   margin-bottom: 0.5rem;
-  padding-top: 0.5rem;
+  padding-top: 0rem;
   padding-bottom: 0.5rem;
 /*  border-top: 1px solid #505050; */
   list-style: none;
-}
-
-.masthead ul {
-  float: left;
 }
 
 .masthead-nav a {
