@@ -56,11 +56,9 @@ html {
 }
 
 .masthead-nav {
-/*  float: left; */
   text-align: left;
   margin: 0;
   padding: 0;
-/*  border-top: 1px solid #505050; */
   list-style: none;
 }
 
@@ -94,15 +92,11 @@ a.masthead-nav-item:focus {
 .footer {
   text-align: left;
   border-top: 1px solid #505050;
-  font-size: 1rem;
-  line-height: 1.5;
+  font-size: 50%;
+  line-height: 50%;
 }
 
 .footer a {
   color: #505050;
-}
-
-.footer small {
-    font-size: 65%;
 }
 
